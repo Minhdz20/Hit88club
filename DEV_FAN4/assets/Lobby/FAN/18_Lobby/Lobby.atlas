@@ -1,0 +1,34 @@
+
+Lobby.png
+size: 146,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 94, 26
+  size: 34, 50
+  orig: 36, 52
+  offset: 1, 1
+  index: -1
+X3
+  rotate: true
+  xy: 130, 16
+  size: 60, 14
+  orig: 62, 16
+  offset: 1, 1
+  index: -1
+l
+  rotate: false
+  xy: 2, 2
+  size: 44, 74
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 48, 2
+  size: 44, 74
+  orig: 44, 75
+  offset: 0, 1
+  index: -1

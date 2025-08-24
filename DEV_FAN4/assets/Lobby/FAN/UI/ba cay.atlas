@@ -1,0 +1,69 @@
+
+ba cay.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2z
+  rotate: false
+  xy: 236, 2
+  size: 98, 121
+  orig: 98, 121
+  offset: 0, 0
+  index: -1
+3z
+  rotate: true
+  xy: 586, 168
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1
+5z
+  rotate: true
+  xy: 701, 173
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+bai_up
+  rotate: false
+  xy: 236, 125
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 50
+  size: 232, 204
+  orig: 232, 204
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 364, 152
+  size: 113, 102
+  orig: 113, 102
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 479, 150
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+txt1
+  rotate: true
+  xy: 914, 200
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+txt2
+  rotate: false
+  xy: 817, 206
+  size: 95, 48
+  orig: 95, 48
+  offset: 0, 0
+  index: -1

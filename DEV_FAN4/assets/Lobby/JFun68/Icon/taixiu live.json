@@ -1,0 +1,160 @@
+{
+"skeleton": { "hash": "Y/IzC4GrOISQs9ZecHf/nhpAgNI", "spine": "3.7.94", "width": 498.34, "height": 871.52, "images": "C:/Users/84962/Desktop/New folder (2)/New folder", "audio": "E:\\OUTSOURCE GAME\\ACE update\\LOBBY OK88\\lobby new q1\\Anim-live-new\\Tai xiu live" },
+"bones": [
+	{ "name": "root", "scaleX": 1.689, "scaleY": 1.689 },
+	{ "name": "character", "parent": "root", "length": 81.76, "rotation": 86.75, "x": 17.83, "y": -50.59 },
+	{ "name": "character2", "parent": "character", "length": 89.94, "rotation": 12.69, "x": 81.76 },
+	{ "name": "character3", "parent": "character", "length": 71.74, "rotation": 61.32, "x": 104.19, "y": 43.11 },
+	{ "name": "txt tai", "parent": "root", "x": 1.97, "y": -78.33, "scaleX": 0.724, "scaleY": 0.724 }
+],
+"slots": [
+	{ "name": "bg", "bone": "root", "attachment": "bg" },
+	{ "name": "dot", "bone": "root", "attachment": "dot" },
+	{ "name": "live", "bone": "root", "attachment": "live" },
+	{ "name": "a", "bone": "root", "attachment": "a" },
+	{ "name": "character", "bone": "character", "attachment": "character" },
+	{ "name": "txt tai", "bone": "txt tai", "attachment": "txt tai" }
+],
+"skins": {
+	"default": {
+		"a": {
+			"a": {
+				"type": "clipping",
+				"end": "character",
+				"vertexCount": 6,
+				"vertices": [ 156.58, -162.43, 120.63, 115.71, 89.79, 209.63, -62.37, 201.25, -158.51, 174.88, -143.65, -183.48 ],
+				"color": "ce3a3aff"
+			}
+		},
+		"bg": {
+			"bg": { "x": 0.56, "y": 3.36, "width": 250, "height": 516 }
+		},
+		"character": {
+			"character": {
+				"type": "mesh",
+				"uvs": [ 1, 0, 0, 0, 0, 1, 1, 1 ],
+				"triangles": [ 2, 1, 0, 2, 0, 3 ],
+				"vertices": [ 1, 1, 255.28, -110.26, 1, 1, 1, 238.51, 184.27, 1, 1, 1, -102.93, 164.83, 1, 1, 1, -86.16, -129.7, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 295,
+				"height": 342
+			}
+		},
+		"dot": {
+			"dot": { "x": 21.02, "y": 110.73, "width": 9, "height": 9 }
+		},
+		"live": {
+			"live": { "x": 35.25, "y": 111, "width": 42, "height": 15 }
+		},
+		"txt tai": {
+			"txt tai": { "x": -2.15, "y": -71.9, "width": 272, "height": 174 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"dot": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "dot" },
+					{ "time": 1, "name": null },
+					{ "time": 1.3333, "name": "dot" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2, "name": "dot" }
+				]
+			}
+		},
+		"bones": {
+			"txt tai": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.098,
+						"y": 1.098,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"x": 1.098,
+						"y": 1.098,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 1.098,
+						"y": 1.098,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"character": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 12.17,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1.044,
+						"y": 1.044,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"character3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": -14.27 },
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"character2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": -6.72 },
+					{ "time": 2, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,153 @@
+
+IConGameLobby.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1160, 295
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: true
+  xy: 522, 64
+  size: 210, 231
+  orig: 210, 231
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 330, 2
+  size: 163, 149
+  orig: 163, 149
+  offset: 0, 0
+  index: -1
+2 copy
+  rotate: false
+  xy: 755, 109
+  size: 156, 165
+  orig: 156, 165
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1003, 295
+  size: 155, 142
+  orig: 155, 142
+  offset: 0, 0
+  index: -1
+3 copy
+  rotate: false
+  xy: 1368, 507
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1868, 793
+  size: 225, 149
+  orig: 225, 149
+  offset: 0, 0
+  index: -1
+4 copy
+  rotate: false
+  xy: 1043, 439
+  size: 323, 190
+  orig: 323, 190
+  offset: 0, 0
+  index: -1
+4A
+  rotate: true
+  xy: 869, 299
+  size: 199, 132
+  orig: 199, 132
+  offset: 0, 0
+  index: -1
+5 copy
+  rotate: false
+  xy: 495, 17
+  size: 266, 45
+  orig: 266, 45
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 500
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1
+BG copy
+  rotate: false
+  xy: 349, 500
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1
+STheThao/BG
+  rotate: true
+  xy: 2, 153
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1
+STheThao/Char1
+  rotate: false
+  xy: 1432, 686
+  size: 230, 332
+  orig: 230, 332
+  offset: 0, 0
+  index: -1
+STheThao/Char2
+  rotate: false
+  xy: 1664, 699
+  size: 202, 319
+  orig: 202, 319
+  offset: 0, 0
+  index: -1
+STheThao/DauChar2
+  rotate: true
+  xy: 1868, 662
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+STheThao/Gradian
+  rotate: false
+  xy: 522, 276
+  size: 345, 222
+  orig: 345, 222
+  offset: 0, 0
+  index: -1
+STheThao/Text
+  rotate: false
+  xy: 2, 36
+  size: 326, 115
+  orig: 326, 115
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 1368, 419
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+VongTron
+  rotate: false
+  xy: 1043, 631
+  size: 387, 387
+  orig: 387, 387
+  offset: 0, 0
+  index: -1
+X-BG
+  rotate: false
+  xy: 696, 500
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1

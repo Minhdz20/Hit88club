@@ -1,0 +1,28 @@
+
+ANI_NV.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+par
+  rotate: false
+  xy: 517, 297
+  size: 723, 202
+  orig: 723, 202
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: true
+  xy: 2, 463
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 42, 390
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+

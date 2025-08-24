@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5a72b838-c0b3-400c-89f4-24c7c90e68a1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 149,
+  "height": 55,
+  "platformSettings": {},
+  "subMetas": {
+    "btn-tientrinh-active": {
+      "ver": "1.0.6",
+      "uuid": "26995873-a3a1-4004-983c-322af5e70433",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5a72b838-c0b3-400c-89f4-24c7c90e68a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 149,
+      "height": 54,
+      "rawWidth": 149,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

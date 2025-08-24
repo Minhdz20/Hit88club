@@ -1,0 +1,194 @@
+{
+"skeleton": { "hash": "TCIlDM76xLzSVbsNH2A0x0n8lNY", "spine": "3.7.94", "width": 65.34, "height": 65.34, "images": "C:/Users/84962/Desktop/New folder (2)/New folder", "audio": "C:\\Users\\84962\\Downloads\\kingvin\\assets\\Spines\\IconGames\\CuocTheThaoIcon" },
+"bones": [
+	{ "name": "root", "scaleX": 0.66, "scaleY": 0.66 },
+	{ "name": "bone", "parent": "root", "x": -96.51, "y": 94.05 },
+	{ "name": "bone2", "parent": "bone" },
+	{ "name": "bone3", "parent": "bone" },
+	{ "name": "bone4", "parent": "bone" },
+	{ "name": "bone5", "parent": "bone" },
+	{ "name": "bone6", "parent": "bone" },
+	{ "name": "bone7", "parent": "bone" },
+	{ "name": "bone8", "parent": "bone" },
+	{ "name": "bone9", "parent": "bone" },
+	{ "name": "bone10", "parent": "bone" }
+],
+"slots": [
+	{ "name": "Ellipse 3", "bone": "bone3", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 4", "bone": "bone4", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 10", "bone": "bone10", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 5", "bone": "bone5", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 6", "bone": "bone6", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 7", "bone": "bone7", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 8", "bone": "bone8", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 9", "bone": "bone9", "attachment": "Ellipse 1 copy" },
+	{ "name": "Ellipse 1", "bone": "bone", "attachment": "Ellipse 1" },
+	{ "name": "Ellipse 2", "bone": "bone2", "attachment": "Shape 1" },
+	{ "name": "bone", "bone": "bone", "attachment": "live" }
+],
+"skins": {
+	"default": {
+		"Ellipse 1": {
+			"Ellipse 1": { "width": 53, "height": 53 }
+		},
+		"Ellipse 10": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 2": {
+			"Shape 1": { "width": 21, "height": 21 }
+		},
+		"Ellipse 3": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 4": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 5": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 6": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 7": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 8": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"Ellipse 9": {
+			"Ellipse 1 copy": { "width": 99, "height": 99 }
+		},
+		"bone": {
+			"live": { "x": -0.85, "y": 39.2, "width": 56, "height": 20 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Ellipse 3": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"Ellipse 4": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Ellipse 5": {
+				"color": [
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"Ellipse 6": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			},
+			"Ellipse 7": {
+				"color": [
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			},
+			"Ellipse 8": {
+				"color": [
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.1667, "color": "ffffff00" }
+				]
+			},
+			"Ellipse 10": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone3": {
+				"scale": [
+					{ "time": 0, "x": 0.956, "y": 0.956 },
+					{ "time": 0.1667, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone4": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0.589, "y": 0.589 },
+					{ "time": 0.8333, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone5": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0.589, "y": 0.589 },
+					{ "time": 1.1667, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone6": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589, "curve": "stepped" },
+					{ "time": 1, "x": 0.589, "y": 0.589 },
+					{ "time": 1.5, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone7": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0.589, "y": 0.589 },
+					{ "time": 1.8333, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone8": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589, "curve": "stepped" },
+					{ "time": 1.6667, "x": 0.589, "y": 0.589 },
+					{ "time": 2.1667, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone9": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589, "curve": "stepped" },
+					{ "time": 2, "x": 0.589, "y": 0.589 },
+					{ "time": 2.3333, "x": 0.956, "y": 0.956 }
+				]
+			},
+			"bone10": {
+				"scale": [
+					{ "time": 0, "x": 0.589, "y": 0.589 },
+					{ "time": 0.5, "x": 1.14, "y": 1.14 }
+				]
+			},
+			"bone2": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"x": 1.178,
+						"y": 1.178,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7667, "x": 1.178, "y": 1.178 },
+					{ "time": 2.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}
